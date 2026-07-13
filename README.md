@@ -41,3 +41,39 @@
 🚀 Aspiring Software Engineer focused on building intelligent and impactful solutions.
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql" />
+
+<br><br>
+
+### 🤖 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,flask" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge"/>
+
+<br><br>
+
+### ⚙️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white"/>
+
+</div>
+
