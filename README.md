@@ -86,3 +86,71 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,35,60,80,100&height=140&section=footer&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArshiyaNasirin&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshiyaNasirin&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+## 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=ArshiyaNasirin&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+## 💬 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArshiyaNasirin/ArshiyaNasirin/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArshiyaNasirin/ArshiyaNasirin/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ArshiyaNasirin/ArshiyaNasirin/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+## 💜 Thanks for Visiting!
+
+✨ *"Code. Learn. Build. Repeat."* ✨
+
+⭐ **Don't forget to Star my repositories if you like them!**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=gradient&customColorList=12,20,24,30&animation=twinkling"/>
