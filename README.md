@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,27,30&text=Arshiya%20Nasirin%20M&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Student%20%7C%20Java%20Developer%20%7C%20Python%20Enthusiast&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Arshiya%20Nasirin%20M&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Student%20%7C%20Java%20Developer%20%7C%20Python%20Enthusiast&descAlignY=60&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1800&color=8B5CF6&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Artificial+Intelligence+%26+Machine+Learning;Java+%7C+Python+%7C+Software+Development;Building+Intelligent+Solutions+🚀;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1800&color=A855F7&center=true&vCenter=true&width=850&lines=👋+Welcome+to+my+GitHub+Profile!;🤖+Artificial+Intelligence+%26+Machine+Learning;☕+Java+Developer;🐍+Python+Enthusiast;💡+Building+Technology+that+Matters;🚀+Always+Learning+Something+New" />
 
 <br>
 
@@ -10,130 +10,48 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;
-
 <a href="https://www.linkedin.com/in/Arshiyanasirin-M">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;
 
 <a href="mailto:arshiyanasirin@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <div align="center">
 
-# 👋 About Me
-
-🎓 **Final Year B.E. Computer Science and Engineering (AI & ML)**
-
-🏫 **K.S. Rangasamy College of Technology**
-
-💡 Passionate about **Artificial Intelligence, Machine Learning, Java, and Software Development**
-
-🌱 Currently exploring **Data Structures & Algorithms, Full Stack Development, and Cloud Technologies**
-
-🚀 Aspiring Software Engineer focused on building intelligent and impactful solutions.
+# 👩‍💻 About Me
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+```yaml
+Name      : Arshiya Nasirin M
+Education : B.E. CSE (Artificial Intelligence & Machine Learning)
+College   : K.S. Rangasamy College of Technology
+Location  : Tamil Nadu, India
+
+Interested In:
+  • Artificial Intelligence
+  • Machine Learning
+  • Software Development
+  • Full Stack Development
+
+Currently Learning:
+  • Data Structures & Algorithms
+  • Advanced Java
+  • Cloud Technologies
+```
+
+---
 
 <div align="center">
 
-# 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql" />
-
-<br><br>
-
-### 🤖 AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,flask" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge"/>
-
-<br><br>
-
-### ⚙️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white"/>
+### ✨ "Learning today. Building tomorrow."
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-# 📊 GitHub Analytics
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ArshiyaNasirin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiyaNasirin&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ArshiyaNasirin&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshiyaNasirin&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-# 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArshiyaNasirin&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-# 👀 Profile Visitors
-
-<img src="https://komarev.com/ghpvc/?username=ArshiyaNasirin&style=for-the-badge&color=8A2BE2"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-# 💬 Developer Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=12,20,24,27,30"/>
-
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
