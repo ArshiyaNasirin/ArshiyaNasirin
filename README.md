@@ -18,7 +18,7 @@
 
 <div align="center">
 
-### 🧑‍💻 About Me
+### 🧑‍💻 About Me 💗
 
 💡 Passionate about building intelligent software using Artificial Intelligence and Machine Learning.
 
