@@ -69,9 +69,6 @@
 <div align="center">
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
 <b>✦ Thanks for visiting my GitHub Profile! ✦</b><br>
 ⭐ If you like my work, don't forget to star my repositories.
 </div>
