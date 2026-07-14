@@ -80,16 +80,6 @@
 <div align="center">
 
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshiyaNasirin&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
 ## 👀 Profile Visitors
 
 <img src="https://komarev.com/ghpvc/?username=ArshiyaNasirin&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
@@ -110,15 +100,7 @@
 
 <div align="center">
 
-## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArshiyaNasirin/ArshiyaNasirin/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArshiyaNasirin/ArshiyaNasirin/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ArshiyaNasirin/ArshiyaNasirin/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
