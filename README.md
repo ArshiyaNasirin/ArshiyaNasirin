@@ -68,15 +68,6 @@
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArshiyaNasirin/ArshiyaNasirin/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArshiyaNasirin/ArshiyaNasirin/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/ArshiyaNasirin/ArshiyaNasirin/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-</picture>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -91,15 +82,6 @@
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArshiyaNasirin&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
 
 ## 📈 Contribution Graph
 
