@@ -102,9 +102,9 @@
 
 
 
-## 💜 Thanks for Visiting!
+##  Thanks for Visiting! 💕
 
-✨ *"Code. Learn. Build. Repeat."* ✨
+✨ *𝐂𝐨𝐝𝐞. 𝐋𝐞𝐚𝐫𝐧. 𝐁𝐮𝐢𝐥𝐝. 𝐑𝐞𝐩𝐞𝐚𝐭.* ✨
 
 ⭐ **Don't forget to Star my repositories if you like them!**
 
