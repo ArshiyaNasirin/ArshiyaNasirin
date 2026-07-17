@@ -1,177 +1,112 @@
-<!-- ========================================================= -->
-<!--                   GITHUB PROFILE README                   -->
-<!--                     PART 1 - HERO                         -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,35,60,80,100&height=200&section=header&text=Arshiya%20Nasirin%20M&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Student%20%7C%20Java%20Developer%20%7C%20Python%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=24,25,26,27,30&text=Arshiya%20Nasirin%20M&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20Machine%20Learning%20Student%20%F0%9F%8C%B8&descAlignY=60"/>
-
-# 👋 Hey there, I'm **Arshiya Nasirin M**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Student;Aspiring+Software+Engineer;Deep+Learning+Enthusiast;Python+Developer;Open+Source+Learner;Always+Learning+New+Technologies+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1800&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=Artificial+Intelligence+%26+Machine+Learning+%F0%9F%A4%96;Java+%7C+Python+%7C+Software+Development+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
-<a href="https://github.com/ArshiyaNasirin">
-<img src="https://img.shields.io/github/followers/ArshiyaNasirin?style=for-the-badge&logo=github&color=FF69B4&labelColor=F8BBD0"/>
-</a>
-
-<a href="https://github.com/ArshiyaNasirin?tab=repositories">
-<img src="https://img.shields.io/github/stars/ArshiyaNasirin?style=for-the-badge&logo=github&color=EF93C4&labelColor=F8BBD0"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=ArshiyaNasirin&style=for-the-badge&color=FF69B4"/>
+<a href="https://github.com/ArshiyaNasirin" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/Arshiyanasirin-M" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:arshiyanasirin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
----
-
-# 🌸 About Me
-
-<table>
-<tr>
-
-<td width="65%" valign="top">
-
-### 💖 Hello!
-
-I'm **Arshiya Nasirin M**, an enthusiastic **Computer Science & Engineering (AI & ML)** student passionate about building intelligent software that solves real-world problems.
-
-I enjoy creating innovative AI applications, exploring modern technologies, and continuously improving my programming skills.
-
-### 🚀 Currently
-
-- 🎓 B.E CSE (Artificial Intelligence & Machine Learning)
-- 🏫 K.S. Rangasamy College of Technology
-- 📍 Anthiyur, Tamil Nadu, India
-- 🌱 Learning **DSA, System Design & Generative AI**
-- 💡 Exploring **Deep Learning & Computer Vision**
-- 🤝 Looking for Internship & Open Source opportunities
-
----
-
-### 💼 Interests
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 👁️ Computer Vision
-- 📊 Data Science
-- 🌐 Full Stack Development
-- ☁️ Cloud Computing
-
----
-
-### 📫 Contact
-
-📧 **arshiyanasirin@gmail.com**
-
-🔗 **LinkedIn**
-
-https://linkedin.com/in/Arshiyanasirin-M
-
-💻 **GitHub**
-
-https://github.com/ArshiyaNasirin
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
-
-<br><br>
-
-> ### 💡 Quote
->
-> **"Success is built one commit at a time."**
-
-</td>
-
-</tr>
-</table>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-# 💻 Tech Stack
+### 🧑‍💻 About Me 💗
+
+💡 Passionate about building intelligent software using Artificial Intelligence and Machine Learning.
+
+🎓 B.E. Computer Science and Engineering (Artificial Intelligence & Machine Learning)
+
+🏫 **K.S. Rangasamy College of Technology**
 
 </div>
 
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArshiyaNasirin&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=14B8A6&text_color=C9D1D9&count_private=true&rank_icon=github" width="48%"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=ArshiyaNasirin&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=6B7280&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
+### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js" />
-
-<br><br>
-
-### 🌐 Web Technologies
-
-<img src="https://skillicons.dev/icons?i=html,css,flask" />
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,git,github,vscode" />
 
 <br><br>
 
-### 🤖 AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF69B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-F8BBD0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CNN-EF93C4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RNN-FF69B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Random%20Forest-F8BBD0?style=for-the-badge"/>
-
-<br><br>
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<br><br>
-
-### 🛠 Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-<br>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square"/>
+<img src="https://img.shields.io/badge/UiPath-FA4616?style=flat-square"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-## 🎯 Current Focus
+### 📊 GitHub Analytics
 
-✨ Mastering Data Structures & Algorithms
-
-🤖 Building AI & Machine Learning Projects
-
-🚀 Preparing for Software Engineering Roles
-
-🌱 Contributing to Open Source
-
-📚 Learning System Design & Cloud Technologies
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshiyaNasirin&bg_color=0D1117&color=A78BFA&line=7C3AED&point=14B8A6&hide_border=true&area=true&area_color=7C3AED" width="90%"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-### 💖 Thanks for visiting my profile!
 
-*"Dream • Build • Learn • Repeat"* 🌸
+<b>✦ Thanks for visiting my GitHub Profile! ✦</b><br>
+⭐ If you like my work, don't forget to star my repositories.
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,35,60,80,100&height=140&section=footer&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+
+## 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=ArshiyaNasirin&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+## 💬 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+
+
+##  Thanks for Visiting! 💕
+
+✨ *𝐂𝐨𝐝𝐞. 𝐋𝐞𝐚𝐫𝐧. 𝐁𝐮𝐢𝐥𝐝. 𝐑𝐞𝐩𝐞𝐚𝐭.* ✨
+
+⭐ **Don't forget to Star my repositories if you like them!**
+
+</div>
+
