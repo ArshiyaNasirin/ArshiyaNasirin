@@ -426,6 +426,255 @@ I’m continuously building new projects in:
 ☁️ Cloud-Native Machine Learning Solutions
 
 </div>
+<!-- ========================================================= -->
+<!--                  GITHUB PROFILE README                    -->
+<!--              PART 2 - STATS & PROJECTS                    -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 📊 GitHub Analytics
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArshiyaNasirin&show_icons=true&theme=radical&hide_border=true&border_radius=15&title_color=FF69B4&icon_color=FF69B4&text_color=F8BBD0&bg_color=0D1117"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiyaNasirin&layout=compact&theme=radical&hide_border=true&border_radius=15&title_color=FF69B4&text_color=F8BBD0&bg_color=0D1117"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiyaNasirin&theme=radical&hide_border=true&border_radius=15&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshiyaNasirin&bg_color=0d1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArshiyaNasirin&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+</div>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🧠 Parkinson Detection using Explainable AI
+
+### 📌 Description
+
+Developed a Deep Learning model that detects **Parkinson's Disease** using voice signals integrated with **Explainable AI** and **Virtual Robotic Assistance**.
+
+### ⚙️ Tech Stack
+
+- Python
+- TensorFlow
+- CNN
+- RNN
+- Librosa
+- NumPy
+- Pandas
+
+⭐ Explainable AI
+
+⭐ Voice Signal Processing
+
+⭐ Healthcare AI
+
+</td>
+
+<td width="50%">
+
+## 👨‍🏫 AEGIS – Teacher Monitoring System
+
+### 📌 Description
+
+Developed a Face Recognition based web application to monitor teacher attendance and classroom activities.
+
+### ⚙️ Tech Stack
+
+- Python
+- Flask
+- OpenCV
+- HTML
+- CSS
+- JavaScript
+- MySQL
+
+⭐ Face Recognition
+
+⭐ Attendance Automation
+
+⭐ Web Application
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🌾 Smart Farming Decision Support System
+
+### 📌 Description
+
+Machine Learning application that recommends crops and fertilizers using soil and weather data.
+
+### ⚙️ Tech Stack
+
+- Python
+- Flask
+- Random Forest
+- Machine Learning
+- Pandas
+- NumPy
+
+⭐ Agriculture AI
+
+⭐ Prediction System
+
+⭐ Recommendation Engine
+
+</td>
+
+<td width="50%">
+
+## 💡 More Projects Coming...
+
+✔ AI Projects
+
+✔ Full Stack Applications
+
+✔ Open Source Contributions
+
+✔ Computer Vision
+
+✔ Deep Learning
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# 📜 Certifications
+
+</div>
+
+| 🏅 Certification | Status |
+|-----------------|--------|
+| Oracle Cloud Infrastructure 2025 AI Foundation Associate | ✅ Score: **93%** |
+| AWS AI Practitioner Challenge | ✅ Completed |
+| Udacity AI & ML Program (Accenture) | ✅ Completed |
+| NPTEL – English for Competitive Exams | 🥈 Elite Silver |
+| NPTEL – Practical Cybersecurity | 🥇 Gold |
+| NPTEL – Industry 4.0 & Industrial IoT | ⭐ Elite |
+| NPTEL – Design Thinking Primer | ⭐ Elite |
+
+---
+
+<div align="center">
+
+# 🎓 Education
+
+</div>
+
+### 🏫 K.S. Rangasamy College of Technology
+
+**B.E. Computer Science & Engineering (Artificial Intelligence & Machine Learning)**
+
+📅 2023 – 2027
+
+🎯 **CGPA:** 7.79 (Till 5th Semester)
+
+---
+
+### 🏫 Adharsh Vidhyalaya Matric Higher Secondary School
+
+**Higher Secondary (HSC)**
+
+📅 2023
+
+📊 **78.83%**
+
+---
+
+### 🏫 Adharsh Vidhyalaya Matric Higher Secondary School
+
+**SSLC**
+
+📅 2021
+
+🏆 **100%**
+
+---
+
+<div align="center">
+
+# 💼 Internship
+
+</div>
+
+### 🤖 AICTE Virtual Internship – Artificial Intelligence & Machine Learning
+
+**Duration:** July 2025 – September 2025
+
+Worked on AI & ML concepts including:
+
+- 🤖 Model Training
+- 📊 Data Analysis
+- ☁️ Google Colab
+- 📈 Weka
+- 🧠 Machine Learning Fundamentals
+
+---
+
+<div align="center">
+
+## 🌱 Currently Learning
+
+💻 Data Structures & Algorithms
+
+⚙️ System Design
+
+☁️ Cloud Computing
+
+🤖 Generative AI
+
+🚀 Full Stack Development
+
+</div>
 
 ## 🎯 Current Focus
 
