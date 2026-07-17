@@ -1,701 +1,88 @@
-<!-- ========================================================= -->
-<!--                   GITHUB PROFILE README                   -->
-<!--                     PART 1 - HERO                         -->
-<!-- ========================================================= -->
 
-<div align="center">
+# 👋 Hey there, I'm Arshiya Nasirin M
 
-<!-- Banner -->
+> AI & Machine Learning Student • Aspiring Software Engineer • Deep Learning Enthusiast
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=24,25,26,27,30&text=Arshiya%20Nasirin%20M&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20Machine%20Learning%20Student%20%F0%9F%8C%B8&descAlignY=60"/>
+![Typing](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Python+Developer;Open+Source+Learner;Always+Learning)
 
-# 👋 Hey there, I'm **Arshiya Nasirin M**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Student;Aspiring+Software+Engineer;Deep+Learning+Enthusiast;Python+Developer;Open+Source+Learner;Always+Learning+New+Technologies+%F0%9F%9A%80" />
-
-<br>
-
-<a href="https://github.com/ArshiyaNasirin">
-<img src="https://img.shields.io/github/followers/ArshiyaNasirin?style=for-the-badge&logo=github&color=FF69B4&labelColor=F8BBD0"/>
-</a>
-
-<a href="https://github.com/ArshiyaNasirin?tab=repositories">
-<img src="https://img.shields.io/github/stars/ArshiyaNasirin?style=for-the-badge&logo=github&color=EF93C4&labelColor=F8BBD0"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=ArshiyaNasirin&style=for-the-badge&color=FF69B4"/>
-
-</div>
+![Followers](https://img.shields.io/github/followers/ArshiyaNasirin?style=for-the-badge&color=FF69B4)
+![Views](https://komarev.com/ghpvc/?username=ArshiyaNasirin&style=for-the-badge&color=FF69B4)
 
 ---
 
-# 🌸 About Me
+## 🌸 About Me
 
-<table>
-<tr>
-
-<td width="65%" valign="top">
-
-### 💖 Hello!
-
-I'm **Arshiya Nasirin M**, an enthusiastic **Computer Science & Engineering (AI & ML)** student passionate about building intelligent software that solves real-world problems.
-
-I enjoy creating innovative AI applications, exploring modern technologies, and continuously improving my programming skills.
-
-### 🚀 Currently
-
-- 🎓 B.E CSE (Artificial Intelligence & Machine Learning)
-- 🏫 K.S. Rangasamy College of Technology
+- 🎓 B.E. CSE (AI & ML), K.S. Rangasamy College of Technology (2023–2027)
 - 📍 Anthiyur, Tamil Nadu, India
-- 🌱 Learning **DSA, System Design & Generative AI**
-- 💡 Exploring **Deep Learning & Computer Vision**
-- 🤝 Looking for Internship & Open Source opportunities
+- 📊 CGPA: **7.79**
+- 🌱 Learning DSA, System Design & Generative AI
+- 🤝 Open to internships and collaborations
+
+| Details | |
+|---|---|
+| Email | arshiyanasirin@gmail.com |
+| LinkedIn | https://linkedin.com/in/Arshiyanasirin-M |
+| GitHub | https://github.com/ArshiyaNasirin |
+
+## 💻 Tech Stack
+
+Python • Java • C • SQL • HTML • CSS • JavaScript • Flask • TensorFlow • OpenCV • MySQL • Git • GitHub • VS Code • Power BI • UiPath
 
 ---
 
-### 💼 Interests
+## 📊 GitHub Stats
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 👁️ Computer Vision
-- 📊 Data Science
-- 🌐 Full Stack Development
-- ☁️ Cloud Computing
+![Stats](https://github-readme-stats.vercel.app/api?username=ArshiyaNasirin&show_icons=true&theme=radical)
 
----
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArshiyaNasirin&theme=radical)
 
-### 📫 Contact
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiyaNasirin&layout=compact&theme=radical)
 
-📧 **arshiyanasirin@gmail.com**
-
-🔗 **LinkedIn**
-
-https://linkedin.com/in/Arshiyanasirin-M
-
-💻 **GitHub**
-
-https://github.com/ArshiyaNasirin
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
-
-<br><br>
-
-> ### 💡 Quote
->
-> **"Success is built one commit at a time."**
-
-</td>
-
-</tr>
-</table>
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArshiyaNasirin&bg_color=0d1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true)
 
 ---
 
-<div align="center">
-
-# 💻 Tech Stack
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 👨‍💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js" />
-
-<br><br>
-
-### 🌐 Web Technologies
-
-<img src="https://skillicons.dev/icons?i=html,css,flask" />
-
-<br><br>
-
-### 🤖 AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF69B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-F8BBD0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CNN-EF93C4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RNN-FF69B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Random%20Forest-F8BBD0?style=for-the-badge"/>
-
-<br><br>
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<br><br>
-
-### 🛠 Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-<br>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- ========================================================= -->
-<!--                PART 2 - ANALYTICS & PROJECTS              -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-# 📊 GitHub Analytics
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArshiyaNasirin&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiyaNasirin&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=FF69B4&text_color=F8BBD0"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=ArshiyaNasirin&theme=rose-pine&hide_border=true&background=00000000&ring=FF69B4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&dates=F8BBD0"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshiyaNasirin&bg_color=0d1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArshiyaNasirin&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🚀 Featured Projects
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🚀 Featured Projects
 
 ### 🧠 Explainable Deep Learning Based Parkinson Detection
-
-Built a deep learning model to detect **Parkinson’s disease from voice signals** integrated with **Explainable AI** and **virtual robotic assistance**.
-
-**Tech Stack**
-
-`Python` `TensorFlow` `CNN` `RNN` `Librosa` `NumPy` `Pandas`
-
-🔗 **Repository**
-
-[View Project](https://github.com/ArshiyaNasirin)
-
-</td>
-
-<td width="50%" valign="top">
+Python, TensorFlow, CNN, RNN, Librosa, NumPy, Pandas
 
 ### 👨‍🏫 AEGIS – Teacher Teaching Monitoring System
-
-Developed a **face-recognition-based web application** to monitor teacher attendance and classroom activities in real time.
-
-**Tech Stack**
-
-`Python` `Flask` `OpenCV` `HTML` `CSS` `JavaScript` `MySQL`
-
-🔗 **Repository**
-
-[View Project](https://github.com/ArshiyaNasirin)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+Python, Flask, OpenCV, HTML, CSS, JavaScript, MySQL
 
 ### 🌾 Smart Farming Decision Support System
-
-Created a crop and fertilizer recommendation system using **soil and weather data** with machine learning models.
-
-**Tech Stack**
-
-`Python` `Flask` `Random Forest` `Pandas` `NumPy` `Machine Learning`
-
-🔗 **Repository**
-
-[View Project](https://github.com/ArshiyaNasirin)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 More Projects Coming Soon...
-
-I’m continuously building new projects in:
-
-- Generative AI
-- Computer Vision
-- Full Stack Development
-- Data Analytics
-- Automation with UiPath
-
-🌟 Stay tuned for upcoming repositories!
-
-</td>
-</tr>
-</table>
+Python, Flask, Random Forest, Machine Learning
 
 ---
 
-<div align="center">
+## 🏆 Certifications
 
-# 🎓 Education
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="20%" align="center">
-
-### 🎓
-
-</td>
-<td width="80%">
-
-### K.S. Rangasamy College of Technology
-
-**B.E. Computer Science & Engineering (Artificial Intelligence and Machine Learning)**
-
-📅 **2023 – 2027**
-
-📊 **CGPA: 7.79 (up to 5th Semester)**
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🏫
-
-</td>
-<td>
-
-### Adharsh Vidhyalaya Matric Higher Secondary School
-
-**Higher Secondary (HSC) – 2023**
-
-📈 **78.83%**
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 📚
-
-</td>
-<td>
-
-### Adharsh Vidhyalaya Matric Higher Secondary School
-
-**SSLC – 2021**
-
-🏆 **100%**
-
-</td>
-</tr>
-</table>
+- Oracle Cloud Infrastructure 2025 AI Foundation Associate (93%)
+- AWS AI Practitioner Challenge
+- Udacity AI & ML Program
+- NPTEL Elite Silver, Gold & Elite Certifications
 
 ---
 
-<div align="center">
+## 🌐 Connect
 
-# 💼 Internship Experience
-
-</div>
-
-<br>
-
-### 🤖 AICTE Virtual Internship in AI-ML
-
-**July 2025 – September 2025**
-
-- Completed a virtual internship focused on **Artificial Intelligence and Machine Learning**.
-- Worked on **model training, data analysis, and ML workflows**.
-- Gained hands-on experience with **Google Colab** and **Weka**.
-- Explored beginner-friendly AI tools and practical implementation concepts.
+[LinkedIn](https://linkedin.com/in/Arshiyanasirin-M) •
+[GitHub](https://github.com/ArshiyaNasirin) •
+Email: arshiyanasirin@gmail.com
 
 ---
 
-<div align="center">
+## 🐍 Contribution Snake
 
-# 📜 Certifications
+Add this GitHub Action:
+https://github.com/Platane/snk
 
-</div>
+Then embed:
 
-<br>
-
-### ☁️ Global Certifications
-
-- 🏆 **Oracle Cloud Infrastructure 2025 AI Foundation Associate – 93%**
-- 🏆 **AWS AI Practitioner Challenge – Verified Certificate**
-- 🏆 **Udacity (Part of Accenture) – AI & ML Program**
-
-### 🎓 NPTEL Certifications
-
-- 🥈 **English Language for Competitive Exams – Elite Silver**
-- 🥇 **Practical Cybersecurity for Cybersecurity Practitioner – Gold**
-- ⭐ **Introduction to Industry 4.0 & Industrial IoT – Elite**
-- ⭐ **Design Thinking Primer – Elite**
+```md
+![Snake](https://raw.githubusercontent.com/ArshiyaNasirin/ArshiyaNasirin/output/github-contribution-grid-snake.svg)
+```
 
 ---
 
-<div align="center">
-
-# 🌟 Co-Curricular Activities
-
-</div>
-
-<br>
-
-### 🚀 Infosys Springboard Pragati – Path to Future (Cohort 4)
-
-- Participated in **technical workshops, public speaking sessions, and industry-led training modules**.
-- Enhanced communication, presentation, and professional development skills.
-
-### 🤝 Internshala Student Partner Program
-
-- Served as a **Student Representative** promoting internship opportunities and certification programs among peers.
-- Organized awareness initiatives and encouraged student participation in career-development activities.
-
----
-
-<div align="center">
-
-## 💡 What I'm Building Next
-
-🤖 Generative AI Applications
-
-👁️ Advanced Computer Vision Systems
-
-🌐 AI-Powered Full Stack Web Apps
-
-📊 Intelligent Data Analytics Dashboards
-
-☁️ Cloud-Native Machine Learning Solutions
-
-</div>
-<!-- ========================================================= -->
-<!--                  GITHUB PROFILE README                    -->
-<!--              PART 2 - STATS & PROJECTS                    -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-# 📊 GitHub Analytics
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArshiyaNasirin&show_icons=true&theme=radical&hide_border=true&border_radius=15&title_color=FF69B4&icon_color=FF69B4&text_color=F8BBD0&bg_color=0D1117"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiyaNasirin&layout=compact&theme=radical&hide_border=true&border_radius=15&title_color=FF69B4&text_color=F8BBD0&bg_color=0D1117"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🔥 GitHub Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiyaNasirin&theme=radical&hide_border=true&border_radius=15&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshiyaNasirin&bg_color=0d1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArshiyaNasirin&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🚀 Featured Projects
-
-</div>
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🧠 Parkinson Detection using Explainable AI
-
-### 📌 Description
-
-Developed a Deep Learning model that detects **Parkinson's Disease** using voice signals integrated with **Explainable AI** and **Virtual Robotic Assistance**.
-
-### ⚙️ Tech Stack
-
-- Python
-- TensorFlow
-- CNN
-- RNN
-- Librosa
-- NumPy
-- Pandas
-
-⭐ Explainable AI
-
-⭐ Voice Signal Processing
-
-⭐ Healthcare AI
-
-</td>
-
-<td width="50%">
-
-## 👨‍🏫 AEGIS – Teacher Monitoring System
-
-### 📌 Description
-
-Developed a Face Recognition based web application to monitor teacher attendance and classroom activities.
-
-### ⚙️ Tech Stack
-
-- Python
-- Flask
-- OpenCV
-- HTML
-- CSS
-- JavaScript
-- MySQL
-
-⭐ Face Recognition
-
-⭐ Attendance Automation
-
-⭐ Web Application
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🌾 Smart Farming Decision Support System
-
-### 📌 Description
-
-Machine Learning application that recommends crops and fertilizers using soil and weather data.
-
-### ⚙️ Tech Stack
-
-- Python
-- Flask
-- Random Forest
-- Machine Learning
-- Pandas
-- NumPy
-
-⭐ Agriculture AI
-
-⭐ Prediction System
-
-⭐ Recommendation Engine
-
-</td>
-
-<td width="50%">
-
-## 💡 More Projects Coming...
-
-✔ AI Projects
-
-✔ Full Stack Applications
-
-✔ Open Source Contributions
-
-✔ Computer Vision
-
-✔ Deep Learning
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-# 📜 Certifications
-
-</div>
-
-| 🏅 Certification | Status |
-|-----------------|--------|
-| Oracle Cloud Infrastructure 2025 AI Foundation Associate | ✅ Score: **93%** |
-| AWS AI Practitioner Challenge | ✅ Completed |
-| Udacity AI & ML Program (Accenture) | ✅ Completed |
-| NPTEL – English for Competitive Exams | 🥈 Elite Silver |
-| NPTEL – Practical Cybersecurity | 🥇 Gold |
-| NPTEL – Industry 4.0 & Industrial IoT | ⭐ Elite |
-| NPTEL – Design Thinking Primer | ⭐ Elite |
-
----
-
-<div align="center">
-
-# 🎓 Education
-
-</div>
-
-### 🏫 K.S. Rangasamy College of Technology
-
-**B.E. Computer Science & Engineering (Artificial Intelligence & Machine Learning)**
-
-📅 2023 – 2027
-
-🎯 **CGPA:** 7.79 (Till 5th Semester)
-
----
-
-### 🏫 Adharsh Vidhyalaya Matric Higher Secondary School
-
-**Higher Secondary (HSC)**
-
-📅 2023
-
-📊 **78.83%**
-
----
-
-### 🏫 Adharsh Vidhyalaya Matric Higher Secondary School
-
-**SSLC**
-
-📅 2021
-
-🏆 **100%**
-
----
-
-<div align="center">
-
-# 💼 Internship
-
-</div>
-
-### 🤖 AICTE Virtual Internship – Artificial Intelligence & Machine Learning
-
-**Duration:** July 2025 – September 2025
-
-Worked on AI & ML concepts including:
-
-- 🤖 Model Training
-- 📊 Data Analysis
-- ☁️ Google Colab
-- 📈 Weka
-- 🧠 Machine Learning Fundamentals
-
----
-
-<div align="center">
-
-## 🌱 Currently Learning
-
-💻 Data Structures & Algorithms
-
-⚙️ System Design
-
-☁️ Cloud Computing
-
-🤖 Generative AI
-
-🚀 Full Stack Development
-
-</div>
-
-## 🎯 Current Focus
-
-✨ Mastering Data Structures & Algorithms
-
-🤖 Building AI & Machine Learning Projects
-
-🚀 Preparing for Software Engineering Roles
-
-🌱 Contributing to Open Source
-
-📚 Learning System Design & Cloud Technologies
-
-</div>
-
----
-
-<div align="center">
-
-### 💖 Thanks for visiting my profile!
-
-*"Dream • Build • Learn • Repeat"* 🌸
-
-</div>
+![](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer)
