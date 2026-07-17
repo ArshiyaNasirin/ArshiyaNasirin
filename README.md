@@ -152,6 +152,281 @@ https://github.com/ArshiyaNasirin
 
 <div align="center">
 
+<!-- ========================================================= -->
+<!--                PART 2 - ANALYTICS & PROJECTS              -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 📊 GitHub Analytics
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArshiyaNasirin&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiyaNasirin&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=FF69B4&text_color=F8BBD0"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=ArshiyaNasirin&theme=rose-pine&hide_border=true&background=00000000&ring=FF69B4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&dates=F8BBD0"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshiyaNasirin&bg_color=0d1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArshiyaNasirin&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Explainable Deep Learning Based Parkinson Detection
+
+Built a deep learning model to detect **Parkinson’s disease from voice signals** integrated with **Explainable AI** and **virtual robotic assistance**.
+
+**Tech Stack**
+
+`Python` `TensorFlow` `CNN` `RNN` `Librosa` `NumPy` `Pandas`
+
+🔗 **Repository**
+
+[View Project](https://github.com/ArshiyaNasirin)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👨‍🏫 AEGIS – Teacher Teaching Monitoring System
+
+Developed a **face-recognition-based web application** to monitor teacher attendance and classroom activities in real time.
+
+**Tech Stack**
+
+`Python` `Flask` `OpenCV` `HTML` `CSS` `JavaScript` `MySQL`
+
+🔗 **Repository**
+
+[View Project](https://github.com/ArshiyaNasirin)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 Smart Farming Decision Support System
+
+Created a crop and fertilizer recommendation system using **soil and weather data** with machine learning models.
+
+**Tech Stack**
+
+`Python` `Flask` `Random Forest` `Pandas` `NumPy` `Machine Learning`
+
+🔗 **Repository**
+
+[View Project](https://github.com/ArshiyaNasirin)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 More Projects Coming Soon...
+
+I’m continuously building new projects in:
+
+- Generative AI
+- Computer Vision
+- Full Stack Development
+- Data Analytics
+- Automation with UiPath
+
+🌟 Stay tuned for upcoming repositories!
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🎓 Education
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="20%" align="center">
+
+### 🎓
+
+</td>
+<td width="80%">
+
+### K.S. Rangasamy College of Technology
+
+**B.E. Computer Science & Engineering (Artificial Intelligence and Machine Learning)**
+
+📅 **2023 – 2027**
+
+📊 **CGPA: 7.79 (up to 5th Semester)**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🏫
+
+</td>
+<td>
+
+### Adharsh Vidhyalaya Matric Higher Secondary School
+
+**Higher Secondary (HSC) – 2023**
+
+📈 **78.83%**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 📚
+
+</td>
+<td>
+
+### Adharsh Vidhyalaya Matric Higher Secondary School
+
+**SSLC – 2021**
+
+🏆 **100%**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 💼 Internship Experience
+
+</div>
+
+<br>
+
+### 🤖 AICTE Virtual Internship in AI-ML
+
+**July 2025 – September 2025**
+
+- Completed a virtual internship focused on **Artificial Intelligence and Machine Learning**.
+- Worked on **model training, data analysis, and ML workflows**.
+- Gained hands-on experience with **Google Colab** and **Weka**.
+- Explored beginner-friendly AI tools and practical implementation concepts.
+
+---
+
+<div align="center">
+
+# 📜 Certifications
+
+</div>
+
+<br>
+
+### ☁️ Global Certifications
+
+- 🏆 **Oracle Cloud Infrastructure 2025 AI Foundation Associate – 93%**
+- 🏆 **AWS AI Practitioner Challenge – Verified Certificate**
+- 🏆 **Udacity (Part of Accenture) – AI & ML Program**
+
+### 🎓 NPTEL Certifications
+
+- 🥈 **English Language for Competitive Exams – Elite Silver**
+- 🥇 **Practical Cybersecurity for Cybersecurity Practitioner – Gold**
+- ⭐ **Introduction to Industry 4.0 & Industrial IoT – Elite**
+- ⭐ **Design Thinking Primer – Elite**
+
+---
+
+<div align="center">
+
+# 🌟 Co-Curricular Activities
+
+</div>
+
+<br>
+
+### 🚀 Infosys Springboard Pragati – Path to Future (Cohort 4)
+
+- Participated in **technical workshops, public speaking sessions, and industry-led training modules**.
+- Enhanced communication, presentation, and professional development skills.
+
+### 🤝 Internshala Student Partner Program
+
+- Served as a **Student Representative** promoting internship opportunities and certification programs among peers.
+- Organized awareness initiatives and encouraged student participation in career-development activities.
+
+---
+
+<div align="center">
+
+## 💡 What I'm Building Next
+
+🤖 Generative AI Applications
+
+👁️ Advanced Computer Vision Systems
+
+🌐 AI-Powered Full Stack Web Apps
+
+📊 Intelligent Data Analytics Dashboards
+
+☁️ Cloud-Native Machine Learning Solutions
+
+</div>
+
 ## 🎯 Current Focus
 
 ✨ Mastering Data Structures & Algorithms
